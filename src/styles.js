@@ -12,7 +12,7 @@ export const Container = styled.div`
 
 export const Content = styled.div`
     background-color: #FFFFFF;
-    width: 60%;
+    width: 70%;
     height: 350px;
 `
 
@@ -24,8 +24,8 @@ export const Row = styled.div`
 `
 
 export const Column = styled.div`
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 `
