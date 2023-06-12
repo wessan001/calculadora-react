@@ -8,17 +8,18 @@ export const InputContainer  = styled.div`
     font-family: 'Roboto';
     width: 100%;
     height: 75px;
-    background-color: #AAFFAA;
+    background-color: #4B0082;
 
     input {
         width: 100%;
         height: 75px;
-        background-color #AAFFAA;
-        border: 0%;
+        background-color #4B0082;
+        border: 3px solid #000;
+        border-radius: 5px 5px 5px 5px;
         float: right;
         clear: both;
         padding: 0 10px;
         font-size: 24px;
-        font-family: 'Roboto';
+        color: #fff;
     }
 `
